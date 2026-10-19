@@ -1,0 +1,22 @@
+{
+  "sourceCommit": "b5e3a7220fe72716956f027639e6fb69fa32a5dd",
+  "sourceSite": "https://river-and-reed-texas.rdunsmore.chatgpt.site",
+  "packagedAt": "2026-10-19T18:57:56.204172+00:00",
+  "files": {
+    "index.html": "485a24b6cdf15dd12c7609a04f0c3d6f2073bbaaa45b6b2e2fe867128a6c1865",
+    "apple-touch-icon.png": "e22ab51e41d0eb88e5d7be7bf778db48f8adc8abd4348b9b825203c119bef088",
+    "icon.svg": "3d9f49eba38ebc2fd154d215c32df6c9b905f45defd0b3db89c276b21c68a89f",
+    "asset-manifest.json": "6581493d0a750f17361111bae3220c29ea948e9d781aba5d3c758c871a12066b",
+    "manifest.webmanifest": "08bb4f1640fed6ce7d22cee87311cbcdf4bc0fdf7db1d22ae94aae64d0dbf441",
+    "sw.js": "15395fdf1e2dd9849577855d6b86292cb6567bfc74fac7f2de1fd93ed8d505b4",
+    "data/guad-offline-map.geojson": "060bcd42431a427baf4d41791d533785519197336d29ed068d57ef1f477f5d12",
+    "data/guad-image-points.json": "a1f40e3db0998a4ffe95c383d3bf05954bcc0b802f1fe0b2b062d49cca063c27",
+    "data/guad-river.geojson": "bf24ab9e2d0d6d9eb2244aff72695a727684065f6b6d8a82e5a87931a9140491",
+    "data/seed.json": "109440e1f0e7ea6a43a4e84f2e9e13ba7c58f35a57b718be3a8882e74f28a877",
+    "data/stocking-status.json": "3df672df6638a6fb95b06b0ee48ac550b057ea8647231f49f87fbf8d8bde8197",
+    "assets/index-DJm0Jw_C.css": "326bd41c276d73f8b6ca1d71e7fc46421a90ec3cf2aa4e42c082f5b576a58e5f",
+    "assets/maplibre-FyRPtSC5.js": "1eada8f9c1566f67ddde4fe8f80466deaa07d29ef0ebc41c85c53c34565d90ad",
+    "assets/maplibre-gl-worker-BUkb9VjC.js": "08085b4a4ee05f686b67db59e2b4d5ab2a61d90c8c65f0505566f5780040bb7b",
+    "assets/index-DHkeCY8g.js": "f2fc3c76e087fcf7cd4813ba1cd3014fb5ebf747be631e7ac2215357c7ce3100"
+  }
+}
